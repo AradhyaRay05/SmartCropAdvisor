@@ -62,11 +62,11 @@ SmartCropAdvisor/
 ├── Dataset/                              # Folder containing the dataset
 │   └── Crop_recommendation.csv           # Main dataset used for training the model
 ├── Crop_Recommendation_System.ipynb      # Jupyter notebook for data analysis and model training
+├── README.md                             # Project documentation
 ├── app.py                                # Streamlit web application
 ├── crop_model.pkl                        # Trained Decision Tree Classifier model
-├── scaler.pkl                            # StandardScaler object used for input scaling
 ├── requirements.txt                      # Python dependencies
-└── README.md                             # Project documentation
+└── scaler.pkl                            # StandardScaler object used for input scaling
 
 ```
 ---
