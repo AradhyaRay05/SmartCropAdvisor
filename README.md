@@ -1,6 +1,4 @@
-# 🌾 SmartCropAdvisor
-
-**AI-powered intelligent crop recommender**
+# 🌾 SmartCropAdvisor - AI-powered intelligent crop recommender
 
 ---
 
@@ -33,7 +31,7 @@ The web interface provides a user-friendly experience where users can easily ent
 - Serialized the model (`crop_model.pkl`) and scaler (`scaler.pkl`) using `joblib` for integration with the Streamlit app.
 
 ### 3. **Evaluation Metrics**
-- **Accuracy:** Achieved approximately **96.5%** on test data.
+- **Accuracy:** Achieved approximately **99%** on test data.
 - Chose Decision Tree for its interpretability and efficiency on this type of classification problem.
 - No confusion matrix was used in this project.
 
