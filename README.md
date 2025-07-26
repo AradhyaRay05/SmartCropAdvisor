@@ -59,14 +59,16 @@ The web interface provides a user-friendly experience where users can easily ent
 
 ```plaintext
 SmartCropAdvisor/
-├── app.py                        # Streamlit web application
-├── Crop_Recommendation_System.ipynb  # Jupyter notebook for model training and EDA
-├── crop_model.pkl                # Trained Decision Tree Classifier model
-├── scaler.pkl                    # StandardScaler object for input normalization
-├── requirements.txt              # Python dependencies
-└── README.md                     # Project documentation
-```
+├── Dataset/                              # Folder containing the dataset
+│   └── Crop_recommendation.csv           # Main dataset used for training the model
+├── Crop_Recommendation_System.ipynb      # Jupyter notebook for data analysis and model training
+├── app.py                                # Streamlit web application
+├── crop_model.pkl                        # Trained Decision Tree Classifier model
+├── scaler.pkl                            # StandardScaler object used for input scaling
+├── requirements.txt                      # Python dependencies
+└── README.md                             # Project documentation
 
+```
 ---
 
 ## 📬 Contact
