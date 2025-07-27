@@ -60,6 +60,7 @@ The web interface provides a user-friendly experience where users can easily ent
 SmartCropAdvisor/
 ├── Dataset/                              # Folder containing the dataset
 │   └── Crop_recommendation.csv           # Main dataset used for training the model
+├── .gitignore                               # Prevents Git from tracking unnecessary files
 ├── Crop_Recommendation_System.ipynb      # Jupyter notebook for data analysis and model training
 ├── LICENSE                               # Allows reuse, with attribution, no warranty
 ├── README.md                             # Project documentation
