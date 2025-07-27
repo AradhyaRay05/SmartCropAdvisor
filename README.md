@@ -61,6 +61,7 @@ SmartCropAdvisor/
 ├── Dataset/                              # Folder containing the dataset
 │   └── Crop_recommendation.csv           # Main dataset used for training the model
 ├── Crop_Recommendation_System.ipynb      # Jupyter notebook for data analysis and model training
+├── LICENSE                               # Allows reuse, with attribution, no warranty
 ├── README.md                             # Project documentation
 ├── app.py                                # Streamlit web application
 ├── crop_model.pkl                        # Trained Decision Tree Classifier model
